@@ -1,0 +1,6 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local SQLite database file (so your live/test data stays separate)
+trading_goals.db
